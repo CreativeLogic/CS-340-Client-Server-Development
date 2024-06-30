@@ -18,7 +18,7 @@ Some best practices to adhere to while writing legible, flexible, and maintainab
 
 ### Python CRUD Module
 
-Project One's CRUD Python module serves as an example of these ideas. Its modular and reusable design allowed it to manage Create, Read, Update, and Delete actions for the MongoDB database. This module then made it easy to connect the dashboard widgets and database in Project Two.
+Project Two's CRUD Python module serves as an example of these ideas. Its modular and reusable design allowed it to manage Create, Read, Update, and Delete actions for the MongoDB database. This module then made it easy to connect the dashboard widgets and database in Project Two.
 
 **Benefits of this strategy**:
 
